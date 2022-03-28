@@ -6,6 +6,7 @@
 python3 webmail.do_scan.py -u http://127.0.0.1:1111 单个url测试
 
 python3 webmail.do_scan.py -f url.txt 批量检测
+会在脚本目录生成存在漏洞的url文件
 ![exp](./poc.png)
 
 
